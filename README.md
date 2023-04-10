@@ -11,6 +11,13 @@ Users should be able to:
 - See their own IP address on the map on the initial page load
 - Search for any IP addresses or domains and see the key information and location
 
+### Layout
+
+The designs were created to the following widths:
+
+- Mobile: 375px
+- Desktop: 1440px
+
 ### Screenshot
 
 ![preview_desktop](https://user-images.githubusercontent.com/44399233/230827139-fdc55f2e-1b20-462f-8a3f-7ff1abf7d56d.png)
