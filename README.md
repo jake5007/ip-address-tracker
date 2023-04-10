@@ -17,7 +17,7 @@ Users should be able to:
 
 ### Preview
 
-- Live Site URL: [Add live site URL here](https://ip-address-tracker-jake5007.vercel.app/)
+- Live Site URL: https://ip-address-tracker-jake5007.vercel.app/
 
 ### Built with
 
