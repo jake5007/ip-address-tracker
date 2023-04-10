@@ -15,10 +15,9 @@ Users should be able to:
 
 ![preview_desktop](https://user-images.githubusercontent.com/44399233/230827139-fdc55f2e-1b20-462f-8a3f-7ff1abf7d56d.png)
 
-### Links
+### Preview
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://ip-address-tracker-jake5007.vercel.app/)
 
 ### Built with
 
